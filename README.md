@@ -24,8 +24,8 @@ The dataset consists of **100,580 rows** and **29 columns**, including attribute
 3. **Dashboard Development**: Developed both executive and functional dashboards using Power BI to present findings effectively.
 
 ## Functional Dashboards 📊
-![Screenshot 2024-11-04 184625](https://github.com/pragatigupta7/Kulturehire-Internship/blob/main/Functional%20Dashboard.xlsx)
- 
+(https://github.com/pragatigupta7/Kulturehire-Internship/blob/main/Functional%20Dashboard.xlsx)
+![Screenshot 2024-11-04 184625](https://github.com/pragatigupta7/Kulturehire-Internship/blob/main/home.jpg)
 ---
 
 ### 1. Learning Aspirations Dashboard 🎓
